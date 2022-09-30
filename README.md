@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jahan Zeb Ahmed!</h1>
-<h3 align="center">A passionate Full Stack Developer.</h3>
+<h1 align="center">Hi 👋, I'm Jahan Zeb Ahmed! A passionate Full Stack Developer.</h1>
 
 👨🏻‍💻 I’m currently learning React Native, Firebase, Google Cloud Platform.
 
