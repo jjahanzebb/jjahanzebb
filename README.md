@@ -13,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jjahanzebb&theme=merko&hide_border=true)<br/>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
+[![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)] [![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)] [![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jjahanzebb&icon=0&color=8)](https://visitcount.itsvg.in)
