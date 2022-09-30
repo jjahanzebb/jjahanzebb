@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jahan Zeb Ahmed! A passionate Full Stack Developer.</h1>
-
+---
 ### 👨🏻‍💻 I’m currently learning React Native, Firebase, Google Cloud Platform.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jjahanzebb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jjahanzebb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20133333) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jjahanzebb) 
 
 # 💻 Languages and Tools:
