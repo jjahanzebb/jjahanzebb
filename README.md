@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.png" srcset="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.png 2x" alt="Waving Hand: Medium-Light Skin Tone on Microsoft Teams 1.0" width="35" height="35" style="margin-bottom: -5px;">, I'm Jahan Zeb!</h1> 
+<h1 align="left">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.png" srcset="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.png 2x" alt="Waving Hand: Medium-Light Skin Tone on Microsoft Teams 1.0" width="35" height="35" style="margin-bottom: -5px;">! I'm Jahan Zeb Ahmed<img src="https://thumbs.gfycat.com/BlackandwhiteAmusedGilamonster-max-1mb.gif" alt="https://thumbs.gfycat.com/BlackandwhiteAmusedGilamonster-max-1mb.gif" class="transparent" width="35" height="35"></h1> 
 
 <p style="margin-bottom:15px;">A passionate Full Stack Developer & Motion Graphic Designer.</p>
 
