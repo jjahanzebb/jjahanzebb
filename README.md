@@ -11,7 +11,7 @@ A passionate **Full Stack Developer** & Motion Graphic Designer.
 ![](https://github-readme-stats.vercel.app/api?username=jjahanzebb&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jjahanzebb&theme=merko&hide_border=true)<br/>
 
-### ✍️ Random Dev Quote
+### <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/writing-hand_270d-fe0f.png" srcset="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/writing-hand_270d-fe0f.png 2x" alt="Writing Hand on Microsoft Teams 1.0" width="20" height="20"> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
