@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jahan Zeb! A passionate Full Stack Developer.</h1>
+<h1 align="left">Hi 👋, I'm Jahan Zeb!</h1> <h2> A passionate Full Stack Developer</h2> <h2> & Motion Graphic Designer.</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/jjahanzebb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jjahanzebb) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jjahanzebb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20133333)
 
