@@ -12,8 +12,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jjahanzebb&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jjahanzebb&theme=merko&hide_border=true)<br/>
-### <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/writing-hand_medium-light-skin-tone_270d-1f3fc_1f3fc.png" srcset="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/writing-hand_medium-light-skin-tone_270d-1f3fc_1f3fc.png 2x" alt="Writing Hand: Medium-Light Skin Tone on Microsoft Teams 1.0" width="25" height="25"> Random Dev Quote
+### <img src="https://em-content.zobj.net/source/microsoft-teams/337/writing-hand_medium-light-skin-tone_270d-1f3fc_1f3fc.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/writing-hand_medium-light-skin-tone_270d-1f3fc_1f3fc.png 2x" alt="Writing Hand: Medium-Light Skin Tone on Microsoft Teams 1.0" width="25" height="25"> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jjahanzebb&icon=0&color=8)](https://visitcount.itsvg.in)
