@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Jahan Zeb Ahmed..</h1> 
+<h1 align="left"><img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png 2x" alt="Waving Hand on Microsoft Teams 1.0" width="35" height="35"> Hi! I'm Jahan Zeb Ahmed..</h1> 
 
 <p style="margin-bottom:15px;">A passionate Full-stack React Native Developer & Motion Graphic Designer.</p>
 
