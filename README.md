@@ -2,7 +2,6 @@
 
 <p style="margin-bottom:15px;">A passionate Full-stack React Native Developer & Motion Graphic Designer.</p>
 
-[![Jahan Zeb Ahmed-React Native-Resume.pdf](https://img.shields.io/badge/DOWNLOAD%20RESUME-338078?style=flat-square)](https://github.com/jjahanzebb/jjahanzebb/files/13037458/Jahan.Zeb.Ahmed-React.Native-Resume.pdf)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/jjahanzebb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jjahanzebb) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jjahanzebb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20133333)
 
 👨🏻‍💻 I’m currently learning **Google Cloud Platform, ADs integration and Payment Gateways**.
